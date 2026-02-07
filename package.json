@@ -1,9 +1,9 @@
 {
-  "name": "my-afnm-mod",
-  "version": "0.0.1",
-  "description": "A mod for AFNM",
+  "name": "faces-of-plenty",
+  "version": "1.0.0",
+  "description": "A custom image mod for AFNM, adding a variety of additional character images with different styles.",
   "author": {
-    "name": "<your name>"
+    "name": "Rion"
   },
   "main": "dist/mod.js",
   "scripts": {
